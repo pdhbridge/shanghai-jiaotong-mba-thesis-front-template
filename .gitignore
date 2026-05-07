@@ -1,0 +1,18 @@
+# 临时文件
+~$*.doc
+~$*.docx
+~$*.xlsx
+
+# 输出日志文件
+output.txt
+output_utf8.txt
+format_docx_extracted.txt
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 编译输出
+*.class
+*.pyc
+__pycache__/
